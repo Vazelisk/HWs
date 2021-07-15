@@ -13,11 +13,13 @@
 Вертел я этот СОП на большом вертеле, его придумали серобуромалиновые черти.
 Я лечу к моей возлюбленной, потому что окрылен крыльями любви и программирования*<p>
 
-Mystem accuracy: 0.9
   
-Natasha accuracy: 0.85
+`sklearn.metrics`
+Mystem accuracy: *0.9*
   
-Pymorphy accuracy: 0.83 
+Natasha accuracy: *0.85*
+  
+Pymorphy accuracy: *0.83*
   
 Примеры текста для английского:<p>
 *The black moon rose from behind the blind mountains.
@@ -33,8 +35,8 @@ The diagram shows us a sharp increase in sales.
 He spoke with a grave tone which sounded weird.
 We sent four delegates to the conference.* <p>
 
-Spacy accuracy: 0.94 
+Spacy accuracy: *0.94*
   
-Flair accuracy: 0.94
+Flair accuracy: *0.94*
   
-NLTK accuracy: 0.85
+NLTK accuracy: *0.85*
