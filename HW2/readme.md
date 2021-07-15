@@ -2,7 +2,7 @@
 Для англиийского используются `flair`, `spacy` & `NLTK`.
 Для англиийского используются `pymystem3`, `pymorphy` & `natasha`.
 
-Примеры текста для русского:
+Примеры текста для русского: <p>
 *Сидя в баре на Маросейке, Виноградова пила джин и ела макарон.
 Я вошёл в землянку, кругом лежали пилы и плюшки.
 Я надел наушники на уши, шапку на голову и повесил лестницу.
@@ -11,10 +11,10 @@
 Вода стекла по трубе, поэтому в доме больше не осталось стекла.
 Три тёрку и тогда сможешь приготовить мой вкусный осенний суп.
 Вертел я этот СОП на большом вертеле, его придумали серобуромалиновые черти.
-Я лечу к моей возлюбленной, потому что окрылен крыльями любви и программирования*
+Я лечу к моей возлюбленной, потому что окрылен крыльями любви и программирования*<p>
 
-Примеры текста для английского:
-"The black moon rose from behind the blind mountains.
+Примеры текста для английского:<p>
+*The black moon rose from behind the blind mountains.
 Johnson fired the match.
 A close look to the import informed us that the lead was broken.
 The object was refused because of his wound.
@@ -25,4 +25,4 @@ Her room is minute. There is a bed only.
 Your access is invalid.
 The diagram shows us a sharp increase in sales.
 He spoke with a grave tone which sounded weird.
-We sent four delegates to the conference".
+We sent four delegates to the conference.*
